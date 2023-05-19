@@ -1,0 +1,13 @@
+{
+    "testDir": "./tests",
+    "timeout": 60000,
+    "expect": {
+      "timeout": 15000
+    },
+    "fullyParallel": false,
+    "use": {
+      "baseURL": "https://playwright.dev/",
+      "video": "on"
+    }
+  }
+  

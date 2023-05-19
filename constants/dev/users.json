@@ -1,0 +1,15 @@
+{
+    "normal": [
+      {
+        "account": "user_1@test.com",
+        "password": "123456"
+      }
+    ],
+    "premium": [
+      {
+        "account": "user_2@test.com",
+        "password": "123456"
+      }
+    ]
+  }
+  
